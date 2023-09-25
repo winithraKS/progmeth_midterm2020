@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="900a9264-801f-460e-950e-c828dfb6d7a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/Part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/application/CVChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/logic/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/logic/EnterProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/logic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/test/BuildingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/test/EnterProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part1/src/test/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/Part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/logic/attack/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/logic/attack/SPAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/logic/monster/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/logic/monster/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/main/BattleUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/test/AttackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/test/LeaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/test/MonsterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/src/test/SPAttackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/Part3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/logic/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/logic/GameSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/logic/MotherShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/logic/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/logic/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/logic/PositionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/test/FighterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3/src/test/GameSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm2020_2110215_6530375021_Winithra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2Vt7uPKRpGgLaOofjbSfiYFgUY0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "/Users/winithraks/IdeaProjects/midterm2020_2110215_6530375021_Winithra/Part3/src/logic",
+    "onboarding.tips.debug.path": "/Users/winithraks/IdeaProjects/midterm2020_2110215_6530375021_Winithra/Part3/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Part3/src/logic" />
+      <recent name="$PROJECT_DIR$/Part3/src/main" />
+      <recent name="$PROJECT_DIR$/Part3/src/test" />
+      <recent name="$PROJECT_DIR$/Part2/src/test" />
+      <recent name="$PROJECT_DIR$/Part2/src/main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="900a9264-801f-460e-950e-c828dfb6d7a8" name="Changes" comment="" />
+      <created>1695643747029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695643747029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Part1/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Part2/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Part3/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
